@@ -9,3 +9,5 @@ discussed on 8/4/2023, by Wenjie, Xudong, Cheng, and Tianyin
 
 * [Performal: Formal Verification of Latency Properties for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3591235),
 discussed on 8/11/2023, by Wenjie, Xudong, Lilia, Cheng, and Tianyin
+
+* [Life, Death, and the Critical Transition: Finding Liveness Bugs in Systems Code](https://www.usenix.org/conference/nsdi-07/life-death-and-critical-transition-finding-liveness-bugs-systems-code)
