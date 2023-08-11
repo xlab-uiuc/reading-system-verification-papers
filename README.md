@@ -7,4 +7,5 @@ discussed on 7/21/2023, by Xudong, Wenjie, Zicheng, and Tianyin
 * [Storage Systems are Distributed Systems (So Verify Them That Way!)](https://www.usenix.org/system/files/osdi20-hance.pdf),
 discussed on 8/4/2023, by Wenjie, Xudong, Cheng, and Tianyin
 
-* [Performal: Formal Verification of Latency Properties for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3591235)
+* [Performal: Formal Verification of Latency Properties for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3591235),
+discussed on 8/11/2023, by Wenjie, Xudong, Lilia, Cheng, and Tianyin
