@@ -16,7 +16,7 @@ discussed on 7/21/2023, by Xudong, Wenjie, Zicheng, and Tianyin
 
 ## To be discussed
 
-* [IronFleet: Proving Practical Distributed Systems Correct](https://www.microsoft.com/en-us/research/publication/ironfleet-proving-practical-distributed-systems-correct/)
+* [IronFleet: Proving Practical Distributed Systems Correct](https://www.microsoft.com/en-us/research/publication/ironfleet-proving-practical-distributed-systems-correct/) (SOSP 2015)
 
 ## Queue
 
