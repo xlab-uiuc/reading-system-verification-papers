@@ -22,3 +22,5 @@ discussed on 7/21/2023, by Xudong, Wenjie, Zicheng, and Tianyin
 
 * [SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems](https://dl.acm.org/doi/10.1145/2815400.2815411) (SOSP 2015)
 
+* [Aragog: Scalable Runtime Verification of Shardable Networked Systems](https://www.usenix.org/system/files/osdi20-yaseen.pdf) (OSDI 2020)
+
