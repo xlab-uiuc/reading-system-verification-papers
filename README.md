@@ -1,5 +1,7 @@
 # System Verification Reading Group
 
+Wed 3:30pm to 5pm, Siebel 3401
+
 ## Schedule
 
 * [Life, Death, and the Critical Transition: Finding Liveness Bugs in Systems Code](https://www.usenix.org/conference/nsdi-07/life-death-and-critical-transition-finding-liveness-bugs-systems-code) (NSDI 2007),
