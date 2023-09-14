@@ -5,6 +5,7 @@ Wed 3:30pm to 5pm, Siebel 3401
 ## Schedule
 
 * [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://dl.acm.org/doi/10.1145/3477132.3483540) (SOSP 2021)
+discussed on 9/13/2023, by Xudong, Cheng, Wenjie, Tyler, Wentao, and Tianyin
 
 * [IronFleet: Proving Practical Distributed Systems Correct](https://www.microsoft.com/en-us/research/publication/ironfleet-proving-practical-distributed-systems-correct/) (SOSP 2015),
 discussed on 8/25/2023, by Wenjie, Xudong, Lilia, Cheng, Tyler, Wentao, Tianyin, and Thrivikraman
@@ -28,3 +29,5 @@ discussed on 7/21/2023, by Xudong, Wenjie, Zicheng, and Tianyin
 * [Aragog: Scalable Runtime Verification of Shardable Networked Systems](https://www.usenix.org/system/files/osdi20-yaseen.pdf) (OSDI 2020)
 
 * [Specifying and Checking File System Crash-Consistency Models](https://dl.acm.org/doi/pdf/10.1145/2872362.2872406) (ASPLOS 2016)
+
+* [How Amazon Web Services Uses Formal Methods](https://lamport.azurewebsites.net/tla/formal-methods-amazon.pdf) (CACM 2015)
