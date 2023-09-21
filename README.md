@@ -4,6 +4,9 @@ Wed 3:30pm to 5pm, Siebel 3401
 
 ## Schedule
 
+* [Aragog: Scalable Runtime Verification of Shardable Networked Systems](https://www.usenix.org/system/files/osdi20-yaseen.pdf) (OSDI 2020)
+will be discussed on 9/27/2023
+
 * [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://dl.acm.org/doi/10.1145/3477132.3483540) (SOSP 2021)
 discussed on 9/13/2023, by Xudong, Cheng, Wenjie, Tyler, Wentao, and Tianyin
 
@@ -25,8 +28,6 @@ discussed on 7/21/2023, by Xudong, Wenjie, Zicheng, and Tianyin
 ## Queue
 
 * [SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems](https://dl.acm.org/doi/10.1145/2815400.2815411) (SOSP 2015)
-
-* [Aragog: Scalable Runtime Verification of Shardable Networked Systems](https://www.usenix.org/system/files/osdi20-yaseen.pdf) (OSDI 2020)
 
 * [Specifying and Checking File System Crash-Consistency Models](https://dl.acm.org/doi/pdf/10.1145/2872362.2872406) (ASPLOS 2016)
 
